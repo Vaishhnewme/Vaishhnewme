@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Vaishhnewme
+ - 👋 Hi, I’m Vaishnavi Ladi
+ - This is my first Git Repository.
 - 👀 I’m interested in Reading Mystrey, Painting
 - 🌱 I’m currently learning JAVA,PYTHON AND HTML WITH CSS
 - 📫 How to reach me ladivaishnavi@gmail.com
